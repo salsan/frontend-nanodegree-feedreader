@@ -1,5 +1,7 @@
 # [Fend Feed Reader Testing](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
+
+
 This is Feed Reader Testing project for FEND Udacity program
 
 ## Usage
@@ -34,8 +36,8 @@ In order to test the project  properly, consider the following steps:
 
 ## Dependencies
 
-    - The application uses [Jasmine 2.1.2](https://jasmine.github.io/2.1/introduction) to complete the tests.
-    - The application uses [jQuery](https://jquery.com/)
+- The application uses  [Jasmine 2.1.2](https://jasmine.github.io/2.1/introduction) to complete the tests.
+- The application uses  [jQuery](https://jquery.com/)
 
 ## License
 
